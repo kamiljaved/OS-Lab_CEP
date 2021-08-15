@@ -49,11 +49,7 @@ See the <a href="#report">report.pdf</a> document below for further details.
 
 ## Report
 
-<object data="report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="report.pdf">
-        <p>This browser does not support PDFs. Please <a href="https://github.com/kamiljaved98/OS-Lab_CEP/raw/master/report.pdf">download</a> the PDF to view it.</p>
-    </embed>
-</object>
+<embed src="https://docs.google.com/viewer?url=https://github.com/kamiljaved98/OS-Lab_CEP/raw/master/report.pdf"></embed>
 
 
 ---
