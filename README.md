@@ -18,11 +18,6 @@ method using OpenMP and POSIX Threads</b></h3>
 
 </p>
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#report">Report</a>
-</p>
-
 <hr>
 
 ## About
@@ -44,12 +39,7 @@ In each case, the following parallelization techniques were tried out and the re
   - using per-thread <i>diff</i> variable (no padding)
   - using per-thread <i>diff</i> variable (with padding)
 
-
-See the <a href="#report">report.pdf</a> document below for further details. 
-
-## Report
-
-<embed src="https://docs.google.com/viewer?url=https://github.com/kamiljaved98/OS-Lab_CEP/raw/master/report.pdf"></embed>
+<h2>Read the <a href="https://docs.google.com/viewer?url=https://github.com/kamiljaved98/OS-Lab_CEP/raw/master/report.pdf">report.pdf</a> document for further details.</h2>
 
 
 ---
