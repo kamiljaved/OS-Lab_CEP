@@ -40,6 +40,7 @@ In each case, the following parallelization techniques were tried out and the re
   - using per-thread <i>diff</i> variable (with padding)
 
 <h2>Read the <a href="https://docs.google.com/viewer?url=https://github.com/kamiljaved98/OS-Lab_CEP/raw/master/report.pdf">report.pdf</a> document for further details.</h2>
+
 ---
 
 > [kamiljaved.pythonanywhere.com](https://kamiljaved.pythonanywhere.com/) &nbsp;&middot;&nbsp;
