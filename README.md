@@ -44,4 +44,4 @@ In each case, the following parallelization techniques were tried out and the re
 ---
 
 > [kamiljaved.pythonanywhere.com](https://kamiljaved.pythonanywhere.com/) &nbsp;&middot;&nbsp;
-> GitHub [@kamiljaved98](https://github.com/kamiljaved98)
+> GitHub [@kamiljaved](https://github.com/kamiljaved)
